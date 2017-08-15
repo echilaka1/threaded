@@ -1,0 +1,11 @@
+.text{
+    overflow: scroll;
+}
+.content{
+    height: 300px;
+    overflow: scroll;
+}
+/*
+#text {
+    height: 40px;
+}*/
